@@ -63,7 +63,7 @@ python topsis.py pretrain_models.csv "0.2,0.2,0.15,0.15,0.1,0.1,0.1" "+,+,-,-,+,
 
 ## Output
 
-After execution, the `resultsTOPSIS.csv` file will include performance scores and rankings for the models.
+After execution, the `resultsTOPSIS_102218023.csv` file will include performance scores and rankings for the models.
 
 ---
 
